@@ -1,5 +1,5 @@
 [package]
-name = "pwasm-repo-bin"
+name = "twasm-repo-bin"
 version = "0.1.0"
 authors = ["Alexey Frolov <frol.rage@gmail.com>"]
 
